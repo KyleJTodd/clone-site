@@ -1,0 +1,40 @@
+i {
+  font-size: 83px;
+}
+#nav-logo {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+}
+#main-img {
+  background-image: url(https://images.unsplash.com/photo-1530258422663-6749b47598fd?ixlib=rb-1.2.1&w=1000&q=80);
+  min-height: 80vh;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 10px solid lightgray;
+}
+
+
+
+#paragraph-banner {
+  background-color: rgb(88, 87, 87);
+  color: white;
+  font-size: xx-large;
+}
+#paragraph-banner p {
+        margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.text-center{
+      height: inherit;
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    color: white;
+}
