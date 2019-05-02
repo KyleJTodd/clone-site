@@ -38,3 +38,9 @@ i {
     align-items: flex-end;
     color: white;
 }
+#foot {
+  background-color: rgb(48, 48, 48);
+  color: white;
+      min-height: 10vh;
+      display: flex;
+}
